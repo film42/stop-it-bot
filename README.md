@@ -3,11 +3,11 @@ Stop It (bot)
 
 ![](stopit.gif)
 
-#### About
+## About
 
 This is a bot that can be used to reply to people on twitter with an MJ meme saying, "Stop it! Get some help!"
 
-#### How to Use
+## How to Use
 
 Create a twitter app. Add a user to the app. You'll need the following env variables set:
 
@@ -24,6 +24,6 @@ You add people to the list by following them. The timeline subscriber will refre
 following list will refresh every 5 minutes. The twitter API rate-limit for the endpoints used by this bot are 15 calls
 per 15 min, so although we could speed up our intervals, it doesn't actually make much sense.
 
-#### License
+## License
 
 MIT License
