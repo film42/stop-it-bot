@@ -7,6 +7,12 @@ Stop It (bot)
 
 This is a bot that can be used to reply to people on twitter with an MJ meme saying, "Stop it! Get some help!"
 
+## Building
+
+```
+$ go get github.com/film42/stop-it-bot
+```
+
 ## How to Use
 
 Create a twitter app. Add a user to the app. You'll need the following env variables set:
